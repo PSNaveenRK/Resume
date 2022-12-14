@@ -87,13 +87,14 @@ margin-top: 70px;
 }
 
 .profile_img{
-  border-radius: 5%;
+  margin-bottom: 65px;
+  border-radius: 6%;
   /* transform: rotate(25deg); */
   padding: 2%;
   border-bottom-style:double;
-  width: 45%;
+  width: 40%;
   height: 105%;
-  transform: skewY(1deg);
+  transform: skewY(5deg);
   /* transform:rotatez(25deg); */
 }
 
